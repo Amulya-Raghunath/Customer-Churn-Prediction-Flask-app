@@ -14,6 +14,7 @@ It includes a **Flask API**, **a frontend UI**, and is fully **Dockerized** for 
   <li>Flask API exposes a /predict endpoint for real-time predictions.</li>
   <li>Frontend UI sends customer details to the API for prediction.</li>
   <li>Docker runs the entire app using <b>Gunicorn</b> for production.</li>
+  <li>Power BI visualizes the data and the XGB model's prediction results</li>
   
 ## **Instruction**
 ### **Run Locally**
