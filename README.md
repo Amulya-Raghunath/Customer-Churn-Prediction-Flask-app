@@ -6,6 +6,7 @@ It includes a **Flask API**, **a frontend UI**, and is fully **Dockerized** for 
 **2. Spyder**-Developement and Testing<br>
 **3. Flask API**-Backend Usage for prediction<br>
 **4. Docker**-Containerized deployment<br>
+**4. Power BI**-Analysis of the data and model outcomes<br>
 
 ## **Project Overview**
   <li>Builds a churn prediction ML model using <b>XGBoost</b>.</li>
