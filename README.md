@@ -34,7 +34,19 @@ Includes 3 dashboards <br>
 **2. Service Insights**-Describes the deatils about the services that affects the churn rate, this includes Customers count that uses *Online Backup,Online Security, Tech Support, Device Protection*, *Service Usage Vs Churn*, *Internet Service Distribution* , *Services offered per Contract Type*, etc.<br>
 **3. Machine Learning Insights**-Describes the ML outcomes obtained that includes *Accuracy Score, ROC_AUC, Precision, Recall *, etc.<br><br>
 
-The screenshots of the same is attached in Screenshot folder
+## Screenshots
+
+### 1. Flask App Homepage
+![Flask App Homepage](Screenshots/Flask_app_Dashboard.png)
+
+### 2. Customer Churn Overview Dashboard
+![Churn Overview Dashboard](Screenshots/Overview.png)
+
+### 3. Service Insights Dashboard
+![Service Insights Dashboard](Screenshots/Service_Insights.png)
+
+### 4. Machine Learning Insights Dashboard
+![ML Insights Dashboard](Screenshots/ML_Insights.png)
 
 
 
