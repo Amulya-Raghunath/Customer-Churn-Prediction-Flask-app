@@ -1,6 +1,14 @@
 # **Telecome Customer Churn Prediction using Flask API and Docker**
 This project is an end-to-end **Telecom Customer Churn Prediction System** that uses machine learning to determine whether a customer is likely to churn.
 It includes a **Flask API**, **a frontend UI**, and is fully **Dockerized** for easy deployment.
+
+## **Features**
+<li>Predict customer churn using Machine Learning</li>
+<li>Flask web UI</li>
+<li>Real-time predictions</li>
+<li>Clean and simple UI</li>
+<li>PowerBI dashboards</li>
+
 ## **Technologies Used**
 **1. Jupyter Notebook**-Used for Model building and EDA analysis<br>
 **2. Spyder**-Developement and Testing<br>
@@ -48,5 +56,9 @@ Includes 3 dashboards <br>
 ### 4. Machine Learning Insights Dashboard
 ![ML Insights Dashboard](Screenshots/ML_Insights.png)
 
+
+![Made with Python](https://img.shields.io/badge/Python-3.9-blue)
+![Flask](https://img.shields.io/badge/Flask-Backend-green)
+![Machine Learning](https://img.shields.io/badge/ML-Churn%20Model-orange)
 
 
